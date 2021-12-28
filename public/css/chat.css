@@ -1,0 +1,9 @@
+#ulMensajes{
+    max-height: 550px;
+    height: 550px;
+    border: 1px solid #c9c9c9;
+    overflow-y: scroll;
+    padding-left: 0px;
+}
+
+
